@@ -50,4 +50,4 @@ This project is licensed under the [MIT License](LICENSE).
 For any questions, feedback, or support, please contact:
 
 - E-mail: jithendarreddy9676@gamil.com
-- GitHub: [Your GitHub Profile](https://github.com/Jithendar9676)
+- GitHub: https://github.com/Jithendar9676
